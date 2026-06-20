@@ -1,0 +1,1 @@
+# Interfaz gráfica (ventanas, botones, renderizado de la serpiente)
