@@ -1,1 +1,1 @@
-# Punto de entrada principal del juego
+# Punto de entrada principal del juego.
