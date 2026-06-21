@@ -11,4 +11,4 @@ py-RetroSnake-game/
     ├── __init__.py
     ├── main.py              # Punto de entrada principal del juego
     ├── logic.py             # Lógica del juego (movimiento, colisiones, puntuación)
-    └── ui.py                # Interfaz gráfica (ventanas, botones, renderizado de la serpiente)
+    └── ui.py                # Interfaz gráfica (ventanas, botones, renderizado de la serpiente).
