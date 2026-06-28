@@ -5,7 +5,7 @@ from Logic import SnakeGameLogic, GRID_SIZE, CELL_SIZE
 
 def main(page: ft.Page):
     # Configuraciones principales de la ventana
-    page.title = "Retro Snake Game"
+    page.title = "RetroSnake-Game"
     page.window_width = GRID_SIZE * CELL_SIZE + 40
     page.window_height = GRID_SIZE * CELL_SIZE + 100
     page.window_resizable = False
