@@ -1,4 +1,4 @@
-# RetroSnake-Game
+# RetroSnake-Game   -   Logica de Programación
 
 ## Integrantes
 * Fabricio Jonathan Hidalgo Eras
