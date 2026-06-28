@@ -5,7 +5,7 @@ from Logic import SnakeGameLogic, GRID_SIZE, CELL_SIZE
 
 def main(page: ft.Page):
     # Configuraciones principales de la ventana (Escritorio)
-    page.title = "RaymiOS - Snake Game"
+    page.title = "RetroSnake-Game"
     page.window_width = GRID_SIZE * CELL_SIZE + 60
     page.window_height = GRID_SIZE * CELL_SIZE + 400 # Ampliado para dar espacio a los controles táctiles
     page.window_resizable = False
